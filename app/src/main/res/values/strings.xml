@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WeeklyAssignement_One</string>
+    <string name="title">GreeFlag customers can create an account to access</string>
+    <string name="title1">Car heath updates</string>
+    <string name="title2">Request a rescue online</string>
+    <string name="title3">Policy information</string>
+    <string name="bt_create">Create an account</string>
+    <string name="tool_title">Create an account</string>
+    <string name="button">NEXT</string>
+    <string name="next_page_message">Your password should hae a minimum of 8 character and
+    contains at least one number, one upper case, and one lower case letter. You can use speicial character</string>
+    <string name="tv_repeat_password">Repeat Password</string>
+    <string name="tv_create_password">Create Password</string>
+    <string name="tv_email">Email Address</string>
+    <string name="mesageError">One of the passwords enter was not valid!</string>
+    <string name="username">User Name</string>
+    <string name="name">Name</string>
+    <string name="passwrd">Password</string>
+    <string name="age">Age</string>
+    <string name="postalAddr">Postal Address(Opt)</string>
+
+    <string-array name="countries_array">
+        <item >Not Specified></item>
+        <item>DRC</item>
+        <item>US</item>
+        <item>CANADA</item>
+        <item>JAPAN</item>
+        <item>NIGERIA</item>
+        <item>GHANA</item>
+    </string-array>
+</resources>
